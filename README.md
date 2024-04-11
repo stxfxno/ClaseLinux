@@ -36,7 +36,7 @@ Soporte y documentación variados: La disponibilidad y calidad del soporte técn
 
 Duplicación de esfuerzos: La existencia de múltiples distribuciones puede llevar a la duplicación de esfuerzos en el desarrollo y mantenimiento del software.
 
-##Los 10 principios del codigo abierto
+## Los 10 principios del codigo abierto
 
 1. **Libertad de redistribución**: El software se puede redistribuir libremente sin restricciones adicionales.
 
