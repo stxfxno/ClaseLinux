@@ -57,3 +57,27 @@ Duplicación de esfuerzos: La existencia de múltiples distribuciones puede llev
 9. **La licencia debe ser tecnológicamente neutral**: Ninguna disposición de la licencia puede basarse en una tecnología individual o estilo de interfaz.
 
 10. **Licencia no restrictiva**: La licencia no debe restringir la distribución de otro software que no sea el software cubierto por la misma licencia.
+
+
+### Aspectos Negativos del Código Abierto
+
+1. **Complejidad de Gobernanza**: Proyectos de código abierto grandes y populares pueden enfrentar desafíos en términos de gobernanza y toma de decisiones, especialmente cuando hay múltiples contribuyentes y partes interesadas.
+
+2. **Diversidad de Contribuciones**: La diversidad de contribuyentes puede llevar a opiniones divergentes y conflictos sobre el desarrollo y dirección del proyecto.
+
+3. **Calidad y Mantenimiento**: Algunos proyectos de código abierto pueden carecer de recursos para garantizar una alta calidad y mantenimiento continuo, lo que puede llevar a problemas de estabilidad o falta de soporte.
+
+4. **Fragmentación**: La naturaleza descentralizada del código abierto puede dar lugar a la fragmentación, con múltiples variantes o bifurcaciones del mismo proyecto que pueden confundir a los usuarios y desarrolladores.
+
+5. **Seguridad y Responsabilidad**: La transparencia del código abierto puede ser una ventaja en términos de seguridad, pero también puede exponer vulnerabilidades que podrían ser explotadas si no se gestionan adecuadamente.
+
+6. **Compatibilidad y Estándares**: La falta de estándares claros en algunos proyectos de código abierto puede generar problemas de compatibilidad entre diferentes versiones o implementaciones.
+
+7. **Sostenibilidad Financiera**: Algunos proyectos dependen de donaciones o patrocinios para mantenerse, lo que puede llevar a preocupaciones sobre su sostenibilidad a largo plazo.
+
+8. **Curva de Aprendizaje**: La curva de aprendizaje puede ser más empinada para nuevos contribuyentes o usuarios que no están familiarizados con la estructura y el proceso de desarrollo de un proyecto de código abierto.
+
+9. **Propiedad Intelectual**: La gestión adecuada de la propiedad intelectual y los derechos de autor puede ser un desafío en entornos de desarrollo abiertos donde múltiples partes contribuyen al código.
+
+10. **Percepción de Menor Calidad**: Algunos usuarios pueden percibir erróneamente que el software de código abierto es de menor calidad o menos confiable que el software propietario.
+
